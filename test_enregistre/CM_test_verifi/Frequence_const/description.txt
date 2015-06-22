@@ -1,0 +1,17 @@
+ces mesures sont toutes r¨¦alis¨¦es ¨¤ 450kHz
+Vpp	Ve	R3131	Aaronia(Auto)
+0.2	0.071	4micro
+0.5	0.177	11micro	11micro
+0.8	0.286	18micro
+1.1	0.394	25micro	17micro - 17
+1.4	0.5	32micro	34micro - 21
+1.7	0.612	39micro	42micro - 26
+2.0	0.712	46micro	49micro - 30
+
+L'att¨¦nuateur ¨¦tant en auto, le relev¨¦ d'une condition se change de temps en temps (le cas de Vpp = 1,4 1,7 et 2), ce qui signifie un changement automatique d'att¨¦nuateur. En modifiant l'att¨¦nuateur manuellement, j'ai trouv¨¦ que le signal plus puissant correspond ¨¤ un att¨¦nuateur de 20dB, et l'autre 10dB.
+
+Je ne sais pas d'o¨´ vient le changement d'att¨¦nuateur en mode auto.
+
+V¨¦rification sur le datasheet :
+
+Question :  
